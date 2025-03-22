@@ -43,7 +43,7 @@ Make sure you have Python installed on your system. If not, download and install
    ```
 4. Run the application:
    ```sh
-   python app.py
+   python main.py
    ```
 
 ## API Endpoints
@@ -135,7 +135,7 @@ The database consists of a single table called `blog_model`, with the following 
 ## Running in Debug Mode
 To enable Flask debug mode for development, run:
 ```sh
-python app.py
+python main.py
 ```
 The app will automatically reload when you make changes to the code.
 
